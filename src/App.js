@@ -5,9 +5,20 @@ import { CTA, Brand, Navbar } from './components/'
 
 const App = () => {
   return (
-    <div>
-        <h1>Em desenvolvimento</h1>
+
+    <div className='app'>
+        <div className='gradient__bg'>
+          <Navbar />
+          <Header />
+        </div>
+        <Brand />
+        <Features />
+        <Possibility />
+        <CTA />
+        <Blog />
+        <Footer />
     </div>
+
   )
 }
 
