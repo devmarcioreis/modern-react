@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/modern-react/static/css/main.3b9ca2e4.css",
-    "main.js": "/modern-react/static/js/main.5324e0cd.js",
+    "main.css": "/modern-react/static/css/main.6a2e0d9a.css",
+    "main.js": "/modern-react/static/js/main.1d1a727c.js",
     "static/media/face.png": "/modern-react/static/media/face.7d8b98db25208c287120.png",
+    "static/media/google.png": "/modern-react/static/media/google.f8d274b36e3e1f5612c6.png",
+    "static/media/microsoft.png": "/modern-react/static/media/microsoft.c4b8b71133d170eb086a.png",
+    "static/media/dropbox.png": "/modern-react/static/media/dropbox.40bfdb13ab5099515216.png",
     "static/media/logo.png": "/modern-react/static/media/logo.271b58402ff3e2e95e4b.png",
+    "static/media/react.png": "/modern-react/static/media/react.79d567c322ac9c3aeefe.png",
+    "static/media/angular.png": "/modern-react/static/media/angular.91c182a4a13ae51ea8d4.png",
     "index.html": "/modern-react/index.html",
-    "main.3b9ca2e4.css.map": "/modern-react/static/css/main.3b9ca2e4.css.map",
-    "main.5324e0cd.js.map": "/modern-react/static/js/main.5324e0cd.js.map"
+    "main.6a2e0d9a.css.map": "/modern-react/static/css/main.6a2e0d9a.css.map",
+    "main.1d1a727c.js.map": "/modern-react/static/js/main.1d1a727c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b9ca2e4.css",
-    "static/js/main.5324e0cd.js"
+    "static/css/main.6a2e0d9a.css",
+    "static/js/main.1d1a727c.js"
   ]
 }
