@@ -12,10 +12,14 @@
 
 /*==========Base==========*/
 body {
-    background: var(--color-bg);    
+    background: var(--gradient-background); 
+    height: 100vh;   
 }
 a {
     color: unset;
+}
+.gradient__bg {
+    background: var(--gradient-bg);
 }
 .gradient__text {
     background: var(--gradient-text);
