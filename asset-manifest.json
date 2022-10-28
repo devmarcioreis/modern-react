@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/modern-react/static/css/main.fb8e3a2b.css",
+    "main.css": "/modern-react/static/css/main.240f3932.css",
     "main.js": "/modern-react/static/js/main.2362750b.js",
     "static/media/logo.png": "/modern-react/static/media/logo.271b58402ff3e2e95e4b.png",
     "index.html": "/modern-react/index.html",
-    "main.fb8e3a2b.css.map": "/modern-react/static/css/main.fb8e3a2b.css.map",
+    "main.240f3932.css.map": "/modern-react/static/css/main.240f3932.css.map",
     "main.2362750b.js.map": "/modern-react/static/js/main.2362750b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb8e3a2b.css",
+    "static/css/main.240f3932.css",
     "static/js/main.2362750b.js"
   ]
 }
