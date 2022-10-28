@@ -1,9 +1,12 @@
 .modern__navbar {
+    position: fixed;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: .5rem 6rem;
+    background: var(--gradient-background);
     box-shadow: 15px 12px 50px rgba(0, 0, 0, 0.3);
+    width: 100%;
 }
 .modern__navbar-links {
     display: flex;
@@ -86,6 +89,9 @@
 
 /*==========Media Query==========*/
 @media (max-width: 1050px) {
+    .modern__navbar {
+        padding: .5rem 2rem;
+    }
     .modern__navbar-links_container {
         display: none;
     }

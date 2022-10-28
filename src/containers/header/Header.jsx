@@ -5,6 +5,9 @@ import ai from '../../assets/face.png'
 const Header = () => {
   return (
     <div className='modern__header section__padding' id='home'>
+      <div className="modern__header-image">
+          <img src={ai} alt="Face img" />
+        </div>
       <div className="modern__header-content">
         <h1 className='gradient__text'>Vamos construir algo moderno e incrivel</h1>
         <p>
@@ -12,9 +15,6 @@ const Header = () => {
         <div className="modern__header-content__input">
           <input type="email" placeholder='Seu email' />
           <button type='button'>Enviar</button>
-        </div>
-        <div className="modern__header-image">
-          <img src={ai} alt="Face img" />
         </div>
       </div>
     </div>
