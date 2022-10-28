@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/modern-react/static/css/main.6a2e0d9a.css",
-    "main.js": "/modern-react/static/js/main.1d1a727c.js",
+    "main.js": "/modern-react/static/js/main.88dfbda5.js",
     "static/media/face.png": "/modern-react/static/media/face.7d8b98db25208c287120.png",
     "static/media/google.png": "/modern-react/static/media/google.f8d274b36e3e1f5612c6.png",
     "static/media/microsoft.png": "/modern-react/static/media/microsoft.c4b8b71133d170eb086a.png",
@@ -11,10 +11,10 @@
     "static/media/angular.png": "/modern-react/static/media/angular.91c182a4a13ae51ea8d4.png",
     "index.html": "/modern-react/index.html",
     "main.6a2e0d9a.css.map": "/modern-react/static/css/main.6a2e0d9a.css.map",
-    "main.1d1a727c.js.map": "/modern-react/static/js/main.1d1a727c.js.map"
+    "main.88dfbda5.js.map": "/modern-react/static/js/main.88dfbda5.js.map"
   },
   "entrypoints": [
     "static/css/main.6a2e0d9a.css",
-    "static/js/main.1d1a727c.js"
+    "static/js/main.88dfbda5.js"
   ]
 }
