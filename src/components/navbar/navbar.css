@@ -37,6 +37,10 @@
     margin: 0 1rem;
     cursor: pointer;
 }
+.modern__navbar-links_container p:hover, .modern__navbar-sign p:hover, .modern__navbar-sign button:hover {
+    transition: all .3s ease;
+    color: #fff;
+}
 .modern__navbar-sign button, .modern__navbar-menu_container button {
     padding: .5rem 1rem;
     font-family: var(--font-family);
