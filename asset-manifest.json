@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/modern-react/static/css/main.15264c35.css",
+    "main.css": "/modern-react/static/css/main.77e18606.css",
     "main.js": "/modern-react/static/js/main.3b2287b3.js",
     "index.html": "/modern-react/index.html",
-    "main.15264c35.css.map": "/modern-react/static/css/main.15264c35.css.map",
+    "main.77e18606.css.map": "/modern-react/static/css/main.77e18606.css.map",
     "main.3b2287b3.js.map": "/modern-react/static/js/main.3b2287b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.15264c35.css",
+    "static/css/main.77e18606.css",
     "static/js/main.3b2287b3.js"
   ]
 }
