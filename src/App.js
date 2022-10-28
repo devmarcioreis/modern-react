@@ -10,7 +10,7 @@ const App = () => {
   return (
 
     <div className='app'>
-        <div className='gradient__bg'>
+        <div>
           <Navbar />
           <Header />
         </div>
