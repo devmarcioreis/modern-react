@@ -13,7 +13,6 @@
 /*==========Base==========*/
 body {
     background: var(--gradient-background); 
-    height: 100vh;   
 }
 a {
     color: unset;
