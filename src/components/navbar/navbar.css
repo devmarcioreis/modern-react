@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 2rem 6rem;
+    padding: .5rem 6rem;
     box-shadow: 15px 12px 50px rgba(0, 0, 0, 0.3);
 }
 .modern__navbar-links {
@@ -100,7 +100,7 @@
 /*==========Media Query==========*/
 @media (max-width: 550px) {
     .modern__navbar {
-        padding: 2rem;
+        padding: .5rem 2rem;
     }
     .modern__navbar-sign {
         display: none;
