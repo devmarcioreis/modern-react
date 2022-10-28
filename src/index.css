@@ -1,0 +1,19 @@
+/*==========Google Fonts==========*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap');
+
+/*==========Root==========*/
+:root {
+  --font-family: 'Nunito', sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+  
+  --gradient-bg: linear-gradient(35deg,#474A51 1%,#1f2127 50%,#1f2127 70%,#1f2127 70%,#474A51 100%);
+  --gradient-background: linear-gradient(45deg,  #4c4c4c 0%,#666666 0%,#666666 0%,#666666 4%,#666666 4%,#666666 8%,#666666 8%,#32363d 25%,#32363d 25%,#2b3138 34%,#2b3138 36%,#2b3138 39%,#2b3138 45%,#2b3138 60%,#32363d 67%,#666666 85%,#666666 89%,#666666 89%,#666666 98%,#666666 100%,#403f45 100%,#1c1c1c 100%,#131313 100%,#525151 100%);
+
+  --color-bg: #040C18;
+  --color-footer : #031B34;
+  --color-blog: #042c54;
+  --color-text: #81AFDD;
+  --color-subtext: #FF8A71;
+}

@@ -1,0 +1,17 @@
+/*==========Reset CSS==========*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: 0;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+/*==========Base==========*/
+body {
+    background: var(--gradient-background);
+    height: 100vh;
+}

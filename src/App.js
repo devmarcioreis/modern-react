@@ -1,7 +1,10 @@
 import React from 'react'
 
-import { Blog, Features, Footer, Header, Possibility } from './components/containers'
+import { Blog, Features, Footer, Header, Possibility } from './containers'
 import { CTA, Brand, Navbar } from './components/'
+
+import './App.css'
+import './index.css'
 
 const App = () => {
   return (
