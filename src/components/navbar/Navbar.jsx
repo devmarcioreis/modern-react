@@ -7,6 +7,7 @@ import logo from '../../assets/logo.png'
 const Menu = () => (
   <>
     <p><a href="#home">Home</a></p>
+    <p><a href="#info">Modern</a></p>
     <p><a href="#about">Sobre</a></p>
     <p><a href="#services">Serviços</a></p>
     <p><a href="#clients">Clientes</a></p>

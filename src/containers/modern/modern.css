@@ -1,0 +1,11 @@
+.modern__main {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    box-shadow: 15px 12px 50px rgba(0, 0, 0, 0.3);
+    width: 70%;
+    margin: auto;
+}
+.modern__main-feature {
+    display: flex;
+}
