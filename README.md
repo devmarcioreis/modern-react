@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Este projeto foi desenvolvido apenas para aprendizado, o mesmo não foi finalizado, objetivo fora alcançado.
+Este projeto foi desenvolvido apenas para aprendizado, o mesmo não foi finalizado, o objetivo fora alcançado.
 https://devmarcioreis.github.io/modern-react/
 ![Captura de tela 2022-10-29 142348](https://user-images.githubusercontent.com/107413382/198845017-a98a87c4-c32d-4829-a5c4-16fefaec1baf.jpg)
 
